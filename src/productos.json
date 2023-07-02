@@ -1,0 +1,93 @@
+[
+    {
+        "ID": 1,
+        "title": "Harina",
+        "description": "harina de trigo",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "10",
+        "stock": 25
+    },
+    {
+        "ID": 2,
+        "title": "aceite",
+        "description": "aceite mezcla",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "11",
+        "stock": 25
+    },
+    {
+        "ID": 3,
+        "title": "azucar",
+        "description": "azucar blanca",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "12",
+        "stock": 25
+    },
+    {
+        "ID": 4,
+        "title": "Leche",
+        "description": "Leche",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "13",
+        "stock": 25
+    },
+    {
+        "ID": 5,
+        "title": "Yerba",
+        "description": "Yerba Mate",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "14",
+        "stock": 25
+    },
+    {
+        "ID": 6,
+        "title": "Te",
+        "description": "Te negro",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "15",
+        "stock": 25
+    },
+    {
+        "ID": 7,
+        "title": "Fideos",
+        "description": "Fideos",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "16",
+        "stock": 25
+    },
+    {
+        "ID": 8,
+        "title": "Arroz",
+        "description": "Arroz fino",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "17",
+        "stock": 25
+    },
+    {
+        "ID": 9,
+        "title": "Atun",
+        "description": "Lata de atun",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "18",
+        "stock": 25
+    },
+    {
+        "ID": 10,
+        "title": "Pure de tomate",
+        "description": "pure de tomate",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "19",
+        "stock": 25
+    }    
+
+]
